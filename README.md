@@ -6,4 +6,7 @@ Site link to azure:https://countrysqlanalytics-bbbzf0cvewc4b2aw.canadacentral-01
 
 •	The ASP.Net Web API that connects the front end and back end is deployed to Azure Web App Service
 
+•	Used Azure DataFactory to push upload excel and map to SQL Database
+
+
 
