@@ -1,6 +1,6 @@
 Site link to azure:https://countrysqlanalytics-bbbzf0cvewc4b2aw.canadacentral-01.azurewebsites.net/
 
-•	This project has a React Front End that is deployed to Azure Web App Service
+•	Project has a React Front End that is deployed to Azure Web App Service
 
 •	The database is Azure SQL Server database that allows the user to query information using plain text
 
@@ -8,7 +8,8 @@ Site link to azure:https://countrysqlanalytics-bbbzf0cvewc4b2aw.canadacentral-01
 
 •	Used Azure DataFactory to push upload excel and map to SQL Database
 
-•	Created a vector embedding AI Search using Azure AI Foundry service to allow users to  query data from a Azure SQL database using plain text
+•	Created a vector embedding AI Search using Azure AI Foundry service to allow users to query data from a Azure SQL database using plain text
+
 
 
 
